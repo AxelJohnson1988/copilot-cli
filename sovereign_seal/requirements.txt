@@ -1,0 +1,9 @@
+# Sovereign Seal - Offline Patent Viewer Dependencies
+# Cryptographic operations
+cryptography>=41.0.0
+
+# PDF handling (PyMuPDF)
+pymupdf>=1.23.0
+
+# Executable bundling
+pyinstaller>=6.0.0
